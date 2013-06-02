@@ -1,0 +1,1 @@
+Game of Life homework assignment for C++ class
